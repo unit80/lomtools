@@ -52,8 +52,6 @@ while True:
          ip = input ("\n                 |---| IP adress: ")
          time.sleep(4)
          webbrowser.open('https://ru.infobyip.com/ip-'+ ip +'.html')
-    elif mode == 3:
-             
     elif mode == 4:
         break
     else:
