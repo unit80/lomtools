@@ -6,5 +6,5 @@ Hi, I am a developer / hacker and I present my development on the GNU license, a
 Free version features
 1) Caesar's code
 2) The location of a person by IP
-3) IP Loger
-4) Location of a person by BSID
+3) IP Logger
+4) Location of a person by BSSID
